@@ -10,6 +10,8 @@
   display: flex;
   flex-direction: column;
   align-items: center;
+  margin: auto;
+  flex-wrap: wrap;
 }
 /* 3. exercice-3 */
 
