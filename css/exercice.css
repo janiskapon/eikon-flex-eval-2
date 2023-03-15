@@ -1,7 +1,16 @@
 /* 1. exercice-1 */
-
+.exercice-1 .container {
+  display: flex;
+  flex-direction: row-reverse; 
+  justify-content: space-around;
+  align-items: center
+}
 /* 2. exercice-2 */
-
+.exercice-2 .container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
 /* 3. exercice-3 */
 
 /* 4. exercice-4 */
