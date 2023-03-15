@@ -27,30 +27,32 @@ flex-wrap: wrap;
 align-items: flex-end;
   flex-direction: row;
 }
-
 /* 5. exercice-5 */
 .exercice-5 .container {
+  display: flex;
+  flex-direction: column-reverse;
+  align-content: flex-end;
 }
 /* 6. exercice-6 */
 .exercice-6 .container {
-
+  display: flex;
+  flex-direction: column-reverse;
 }
 /* 7. exercice-7 */
 .exercice-7 .container {
-
+  display: flex;
 }
 /* 8. exercice-8 */
 .exercice-8 .container {
-
+  display: flex;
 }
 /* 9. exercice-9 */
 .exercice-9 .container {
-
+  display: flex;
 }
 /* 10. exercice-10 */
-.exercice-10 .container {
+.exercice-order-10 .container {
   display: flex;
   margin: auto;
   align-items: center;
-  flex-wrap: wrap;
 }
